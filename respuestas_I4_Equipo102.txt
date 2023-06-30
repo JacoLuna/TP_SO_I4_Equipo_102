@@ -1,0 +1,4 @@
+A- azul
+B- amarillo
+C- amarillo
+D- quedo el favicon de beta
