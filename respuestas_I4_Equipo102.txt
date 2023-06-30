@@ -2,3 +2,8 @@ A- azul
 B- amarillo
 C- amarillo
 D- quedo el favicon de beta
+E- No
+F- nos faltaba un commit en algun momento y no nos dejaba por eso
+G- hubo conflictos entre las ramas y se tuvo que reclonar el repo, la consecuencia es que se tarda en clonar
+H- Forzas el push aunque tenga errores
+I- pararme en DESARROLLO y hacer el merge con TESTING
